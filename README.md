@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<picture style="display: block; width: 100px; margin: 50px auto;">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+<h1 align="center">Hi there 👋</h1>
+<div align="center">I'm Egor and I'm a beginner Belarusian programmer</div>
 <!--
 **Kovach2/Kovach2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
