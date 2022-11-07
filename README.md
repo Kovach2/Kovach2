@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi there 👋</h1>
 <div align="center">I'm Egor and I'm a beginner Belarusian programmer</div>
-<br><br>
-- 🌱 I’m currently learning Python
 
 
 
