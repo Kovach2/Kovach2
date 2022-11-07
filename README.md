@@ -1,5 +1,14 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300px">
+</p>
+
 <h1 align="center">Hi there 👋</h1>
 <div align="center">I'm Egor and I'm a beginner Belarusian programmer</div>
+<br><br>
+- 🌱 I’m currently learning Python
+
+
+
 <!--
 **Kovach2/Kovach2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
