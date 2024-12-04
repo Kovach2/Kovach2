@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋</h1>
-<div align="center">I'm Egor and I'm a beginner Belarusian programmer</div>
+<div align="center">I'm Egor and I'm a Belarusian programmer</div>
 
 
 
